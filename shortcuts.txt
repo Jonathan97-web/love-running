@@ -1,1 +1,4 @@
 CTRL + SHIFT + R = Rechaching website.
+
+
+ALT + SHIFT + F = Indent lines.
